@@ -41,12 +41,6 @@ Active contributor to open-source projects in the Go ecosystem.
 
 ---
 
-## 🎓 University
-
-**Linked R&D** · Group project for Systems Analysis and Design (UFMT, 2026): an app connecting academic research with industry, aligned with UN SDG 9.
-
----
-
 ## 📫 Contact
 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/victor-briske-9bb459361/)
